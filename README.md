@@ -2,8 +2,9 @@
  The follwing files are my first foray into CircuitPython.
 ## Table of Contents
 * [Table of Contents](#TableOfContents)
-* [SteadyRed LED](#FirstAssignment)
-* [Servo with Capacitive Touch](#SecondAssignment)
+* [Hello_CircuitPython](#Hello_CircuitPython)
+* [CircuitPython_Servo](#CircuitPython_Servo)
+* [CircuitPython_LCD](#CircuitPython_LCD)
 ---
 
 ## Hello_CircuitPython
