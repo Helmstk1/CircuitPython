@@ -30,25 +30,26 @@ Code goes here
 
 ### Description & Code
 
-### Evidence
+```python
+Code goes here
 
-### Images
-
-### Reflection
-
-## CircuitPython_Servo
-
-### Description & Code
+```
 
 ### Evidence
 
 ### Images
 
 ### Reflection
+
 
 ## CircuitPython_LCD
 
 ### Description & Code
+
+```python
+Code goes here
+
+```
 
 ### Evidence
 
