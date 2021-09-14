@@ -22,9 +22,9 @@ Code goes here
 
 
 ### Evidence
-Pictures / Gifs of your work should go here
+Pictures / Gifs of your work should go here.  You need to communicate what your thing does.
 
-### Images
+### Wiring
 Make an account with your google ID at [tinkercad.com](https://www.tinkercad.com/learn/circuits), and use "TinkerCad Circuits to make a wiring diagram."  It's really easy!  
 Then post an image here.   [here's a quick tutorial for all markdown code, like making links](https://www.markdownguide.org/basic-syntax/)
 
@@ -45,7 +45,7 @@ Code goes here
 
 ### Evidence
 
-### Images
+### Wiring
 
 ### Reflection
 
@@ -63,7 +63,7 @@ Code goes here
 
 ### Evidence
 
-### Images
+### Wiring
 
 ### Reflection
 
@@ -82,6 +82,6 @@ Code goes here
 
 ### Evidence
 
-### Images
+### Wiring
 
 ### Reflection
