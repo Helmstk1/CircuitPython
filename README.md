@@ -22,12 +22,15 @@ Code goes here
 
 
 ### Evidence
-<img src="ihttps://cdn.shopify.com/s/files/1/0215/6458/products/2466-05.gif.pagespeed.ce.7pXsy73MYp_2048x.gif?v=1480426182"  width="500" >
 
-Here is the code I used to create this image.
+<img src="[ihttps://cdn.shopify.com/s/files/1/0215/6458/products/2466-05.gif)"  width="500" >
+
+
 And here is how you should give image credit to someone, if you use their work:
-  Image credit goes to [Rick A](https://www.youtube.com/watch?v=dQw4w9WgXcQ&scrlybrkr=8931d0bc)
-Pictures / Gifs of your work should go here.  You need to communicate what your thing does.
+
+Image credit goes to [Rick A](https://www.youtube.com/watch?v=dQw4w9WgXcQ&scrlybrkr=8931d0bc)
+
+
 
 ### Wiring
 Make an account with your google ID at [tinkercad.com](https://www.tinkercad.com/learn/circuits), and use "TinkerCad Circuits to make a wiring diagram."  It's really easy!  
@@ -50,6 +53,8 @@ Code goes here
 
 ### Evidence
 
+Pictures / Gifs of your work should go here.  You need to communicate what your thing does.
+
 ### Wiring
 
 ### Reflection
@@ -67,6 +72,8 @@ Code goes here
 ```
 
 ### Evidence
+
+Pictures / Gifs of your work should go here.  You need to communicate what your thing does.
 
 ### Wiring
 
