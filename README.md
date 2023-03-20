@@ -43,12 +43,43 @@ What went wrong / was challenging, how'd you figure it out, and what did you lea
 
 
 
-## CircuitPython_Servo
+## How To Fix the LCD power issue with Metro M4 boards.
 
 ### Description & Code
 
+The symptoms:  LCD acting wierd OR trobule with usb connection / serial monitor / uploading / etc.
+The problem : The LCDs occasionally draw too much power when we turn on the boards, and that makes parts of its serial communcations crash.
+The Solution: Add this code, and wire a switch up, like the wiring diagram below:
+
 ```python
-Code goes here
+import board
+import time
+import digitalio
+from lcd.lcd import LCD
+from lcd.i2c_pcf8574_interface import I2CPCF8574Interface
+
+
+
+# turn on lcd
+lcdPower = digitalio.DigitalInOut(board.D8)
+lcdPower.direction = digitalio.Direction.INPUT
+lcdPower.pull = digitalio.Pull.DOWN
+
+while lcdPower.value is False:
+    print("still sleeping")
+    time.sleep(0.1)
+
+time.sleep(1)
+print(lcdPower.value)
+print("running")
+
+i2c = board.I2C()
+lcd = LCD(I2CPCF8574Interface(i2c, 0x27), num_rows=2, num_cols=16)
+
+
+# Loop forever.
+while True:
+
 
 ```
 
