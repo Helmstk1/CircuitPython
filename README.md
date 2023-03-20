@@ -83,17 +83,12 @@ lcd = LCD(I2CPCF8574Interface(i2c, 0x27), num_rows=2, num_cols=16)
 # Loop forever.
 while True:
 
-#Your code here...
-
 ```
-
-### Evidence
-
-Pictures / Gifs of your work should go here.  You need to communicate what your thing does.
-
 ### Wiring
 
-### Reflection
+![WiringSolution](images/I2C_M4_Solution.png)
+
+
 
 
 
